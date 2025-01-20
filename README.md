@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# 📄 Projeto Pessoal - Componente de Parágrafo Colorido em Caixa Alta
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objetivo
 
-## Available Scripts
+Este projeto faz parte do curso DevQuest DevEmDobro e consiste em criar um componente React que transforma um texto em caixa alta e aplica uma cor específica ao texto. O componente utiliza JavaScript e props para personalizar o texto e a cor.
 
-In the project directory, you can run:
+## Instruções
 
-### `npm start`
+1. **Dê um bom nome ao seu componente**:
+   - Nome do componente: `paragraph`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Faça o componente renderizar na tela um parágrafo colorido e com todas as letras maiúsculas usando JS**:
+   - O componente `paragraph` renderiza um parágrafo cujo texto é transformado para caixa alta e possui uma cor personalizada.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **Utilize props para passar o texto e a cor de texto desejada para dentro do componente**:
+   - Props:
+     - `text`: Texto a ser exibido no parágrafo.
+     - `color`: Cor do texto, que pode ser uma palavra (como 'red') ou um valor hexadecimal (como '#FF0000').
 
-### `npm test`
+4. **Pode utilizar o style inline para colorir o componente da forma que foi mostrado nas aulas**:
+   - O estilo inline é utilizado para aplicar a cor ao texto.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/quest-react/) ##
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tecnologias utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Minhas considerações sobre o desafio
+O projeto é uma excelente introdução ao uso de componentes em React e à personalização através de props.
 
-### `npm run eject`
+A clareza das instruções e a simplicidade da implementação tornam o projeto acessível e didático.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A prática de usar estilo inline é válida, mas explorar outras abordagens de styling no futuro pode enriquecer ainda mais o aprendizado.
