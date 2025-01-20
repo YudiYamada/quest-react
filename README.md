@@ -20,9 +20,6 @@ Este projeto faz parte do curso DevQuest DevEmDobro e consiste em criar um compo
 4. **Pode utilizar o style inline para colorir o componente da forma que foi mostrado nas aulas**:
    - O estilo inline é utilizado para aplicar a cor ao texto.
 
-
-## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/quest-react/) ##
-
 ## Tecnologias utilizadas
 
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
